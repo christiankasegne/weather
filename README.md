@@ -1,6 +1,6 @@
 # Weather
 by Christian Kasegne
-![alt text](assets/images/screenshot.png)
+![alt text](./image/Screenshot%202023-05-09%20at%201.18.15%20AM.png)
 
 ## Description
 it helps users to track weather for over 200,000 city in the world
