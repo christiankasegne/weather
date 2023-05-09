@@ -1,5 +1,6 @@
 # Weather
 by Christian Kasegne
+![alt text](assets/images/screenshot.png)
 
 ## Description
 it helps users to track weather for over 200,000 city in the world
