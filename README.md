@@ -28,7 +28,7 @@ N/A
 ![Github license](https://img.shields.io/badge/license-undefined-blue.svg)
 
 ## How to Contribute
-Clone the GitHub repository for this project, install node, Clone the GitHub repository for this project, Open folder with VS, install Inquirer (npm i), Open the integrated terminal for index.js file, Initiate prompt(type “node index.js” in the terminal) \, Answer all questions
+Clone the GitHub repository for this project, 
 
 ## Tests
 N/A
